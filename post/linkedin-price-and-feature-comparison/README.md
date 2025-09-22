@@ -71,7 +71,7 @@ The end result is a bit like comparing apples to oranges. However, I put it toge
 
 **References**
 
--   Full table at [[link]()\]
+-   Full table at [[link]([linkedin-price-and-feature-comparison.xlsx](linkedin-price-and-feature-comparison.xlsx))\]
     
 -   Tables built with Tables Generator at [[link](http://www.tablesgenerator.com/html_tables)\]
     
