@@ -10,7 +10,7 @@ Disclosed herein are memory management methods and computing devices equipped wi
 
 ###### USPTO Link
 
-[https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8458434](https://github.com/pfefferz/pfefferz.github.io/blob/main/post/united-states-patent-us-8-458-434-b2-unified-virtual-contiguous-memorymanager/8458434.pdf)
+https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8458434
 
 ###### A Link to a Local Copy
 
