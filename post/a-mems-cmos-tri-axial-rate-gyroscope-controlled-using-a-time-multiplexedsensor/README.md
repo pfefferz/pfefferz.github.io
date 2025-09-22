@@ -14,4 +14,4 @@ Adding to the originality of the design is the proposal of a braking stage betwe
 
 ###### Paper
 
-https://github.com/pfefferz/pfefferz.github.io/blob/main/post/a-mems-cmos-tri-axial-rate-gyroscope-controlled-using-a-time-multiplexedsensor/a-mems-cmos-tri-axial-rate-gyroscope-controlled-using-a-time-multiplexedsensor.pdf
+a-mems-cmos-tri-axial-rate-gyroscope-controlled-using-a-time-multiplexedsensor.pdf
