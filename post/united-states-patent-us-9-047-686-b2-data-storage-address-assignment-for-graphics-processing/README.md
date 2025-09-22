@@ -10,7 +10,7 @@ This disclosure generally pertains to techniques for effectively storing data ac
 
 USPTO Link
 
-[https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9047686 ](https://github.com/pfefferz/pfefferz.github.io/blob/main/post/united-states-patent-us-9-047-686-b2-data-storage-address-assignment-for-graphics-processing/9047686.pdf)
+https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9047686
 
 A Link to a Copy
 
