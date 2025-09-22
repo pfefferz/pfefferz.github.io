@@ -2,7 +2,7 @@
 
 ![department_of_energy_logo](department_of_energy_logo.jpg)
 
-This post lists a table of every U.S. Department of Energy ([DOE](http://www.energy.gov/)) SciDAC HPC project with short descriptions, links to repos (if found) and landing pages (if found). A more in depth table can be found at https://github.com/pfefferz/pfefferz.github.io/blob/main/post/list-of-doe-scidac-hpc-projects/list-of-doe-scidac-hpc-projects.xlsx.
+This post lists a table of every U.S. Department of Energy ([DOE](http://www.energy.gov/)) SciDAC HPC project with short descriptions, links to repos (if found) and landing pages (if found). A more in depth table can be found at [list-of-doe-scidac-hpc-projects.xlsx](list-of-doe-scidac-hpc-projects.xlsx).
 
 I've classed the projects into: Adapters, Annotation, I/O, Iterators, Models, OS, Partition, Perf, Solvers, Storage, Translation, Visualization, and Workflow. These classes may not be completely accurate, but gave me a short-cut when evaluating what each project provides.
 
