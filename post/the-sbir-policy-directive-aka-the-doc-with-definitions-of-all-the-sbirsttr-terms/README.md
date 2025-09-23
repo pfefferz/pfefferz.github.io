@@ -70,7 +70,7 @@ _(i) give priority in the SBIR/STTR program to manufacturing-related research an
 
 _(ii) give priority to SBCs that participate in or conduct energy efficiency or renewable energy system research and development projects._
 
-(iii) give consideration to topics that further one or more critical technologies as identified by the National Critical Technologies panel (or its successor) in reports required under 42 U.S.C. 6683 [*link*](USCODE-1994-title42-chap79-subchapVI-sec6683.pdf) (related: the Critical Technologies Institute name was changed to the Science and Technology Policy Institute [link](http://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute), or the Secretary of Defense in accordance with 10 U.S.C. 2522 [[link](USCODE-2018-title10-subtitleA-partIV-chap148-subchapIV-sec2522.pdf). 
+(iii) give consideration to topics that further one or more critical technologies as identified by the National Critical Technologies panel (or its successor) in reports required under 42 U.S.C. 6683 [*link*](USCODE-1994-title42-chap79-subchapVI-sec6683.pdf) (related: the Critical Technologies Institute name was changed to the Science and Technology Policy Institute [link](http://www.ida.org/en/ida-ffrdcs/science-and-technology-policy-institute), or the Secretary of Defense in accordance with 10 U.S.C. 2522 [link](USCODE-2018-title10-subtitleA-partIV-chap148-subchapIV-sec2522.pdf). 
 
 On pages 153 to 161 lists **12\. Supporting Programs and Initiatives** that are worth reviewing if you need help and/or resources to develop an SBIR/STTR proposal:
 
