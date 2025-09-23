@@ -32,7 +32,7 @@ _4.20 Adequate Accounting System (page 18)_
 
 _In order to reduce risk to the small business and avoid potential contracting delays, it is suggested that companies interested in pursuing Phase II SBIR contracts and other contracts of similar size with the Department of Defense (DoD), have an adequate accounting system per General Accepted Accounting Principles (GAAP), Generally Accepted Government Auditing Standards (GAGAS), Federal Acquisition Regulation (FAR) and Cost Accounting Standards (CAS) in place. The accounting system will be audited by the_ **_Defense Contract Audit Agency_** _(DCAA). DCAA’s requirements and standards are available on their Website at:_ _http://www.dcaa.mil_ _and click on “Guidance” and then click on “Audit Process Overview – Information for Contractors,” and also at: http://www.dcaa.mil and click on_ **_“Checklists and Tools” and then click on “Pre-award Accounting System Adequacy Checklist.”_**
 
-At [link] a **Pre-award Accounting System Adequacy Checklist** is posted [link][saved:[Preaward_Survey_of_Prospective_Contractor_Accounting_System_Checklist_updated10_9_19.pdf]([Preaward_Survey_of_Prospective_Contractor_Accounting_System_Checklist_updated10_9_19.pdf](Preaward_Survey_of_Prospective_Contractor_Accounting_System_Checklist_updated10_9_19.pdf))]. This document helps you prepare to pass SF1408.
+At [link] a **Pre-award Accounting System Adequacy Checklist** is posted [link](DOD-20.1-v15-1.pdf). This document helps you prepare to pass SF1408.
 
 Also within **Accounting System Requirements** it lists:
 
