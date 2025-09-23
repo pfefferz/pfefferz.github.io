@@ -26,7 +26,7 @@ The **SMALL BUSINESS** link takes you to [link](accounting_System.pdf) which lis
 
 ![accounting_system_requierments_4](accounting_system_requierments_4.png)
 
-Within **Accounting System Requirements** it lists **SF1408** [link](SF1408-14b.pdf). This is the **checklist** that is listed in DOD-20.1-v15-1.pdf: 
+Within **Accounting System Requirements** it lists **SF1408** [link](SF1408-14b.pdf). This is the **checklist** that is listed in DOD-20.1-v15-1.pdf [link](SF1408-14b.pdf): 
 
 _4.20 Adequate Accounting System (page 18)_
 
