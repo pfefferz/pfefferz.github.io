@@ -6,7 +6,7 @@ This post lists some resources I've found while learning about fringe rate, over
 
 **Finding what Fringe, Overhead and General Management and Administration (G&A) mean to the Army**
 
-As of Feb 8th 2020, the DoD posts Learning and Support templates to [link](sbir_p1_Army_cost_volume_template.pdf) which includes a template for putting together the _Cost Volume_ for each "component," including the Army
+As of Feb 8th 2020, the DoD posts Learning and Support templates to [link](sbir_p1_Army_cost_volume_template.pdf) which includes a template for putting together the _Cost Volume_ for each "component," including the Army.
 
 ![learning_and_support_page_2](learning_and_support_page_2.png)
 
@@ -22,7 +22,7 @@ On the DCAA's page, scroll down to find a link to SMALL BUSINESS:
 
 ![small_business_link_3](small_business_link_3.png)
 
-The **SMALL BUSINESS** link takes you to [link] which list a to a presentation called **Accounting System Requirements** [link][saved:[Accounting_System.pdf]([accounting_System.pdf](accounting_System.pdf))]:
+The **SMALL BUSINESS** link takes you to [link] which list a to a presentation called **Accounting System Requirements**.
 
 ![accounting_system_requierments_4](accounting_system_requierments_4.png)
 
