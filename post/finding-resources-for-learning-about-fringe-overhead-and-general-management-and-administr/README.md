@@ -6,7 +6,7 @@ This post lists some resources I've found while learning about fringe rate, over
 
 **Finding what Fringe, Overhead and General Management and Administration (G&A) mean to the Army**
 
-As of Feb 8th 2020, the DoD posts Learning and Support templates to \[link\] which includes a template for putting together the _Cost Volume_ for each "component," including the Army [saved:[sbir\_p1\_Army\_cost\_volume\_template.pdf](http://drive.google.com/file/d/1rJ482yYCzjWKidQe9eH3QlI3rgY8tVZR/view?usp=sharing)\].
+As of Feb 8th 2020, the DoD posts Learning and Support templates to [link](sbir_p1_Army_cost_volume_template.pdf) which includes a template for putting together the _Cost Volume_ for each "component," including the Army
 
 ![learning_and_support_page_2](learning_and_support_page_2.png)
 
