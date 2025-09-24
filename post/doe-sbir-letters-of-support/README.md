@@ -23,11 +23,11 @@ Here are 4 points from the tutorial:
 
 **Where this Info Comes From**
 
-In FY 2019 PHASE I RELEASE 2 FUNDING OPPORTUNITY ANNOUNCEMENT (FOA) NUMBER: DE-FOA-0001941 at [link](http://science.energy.gov/~/media/grants/pdf/foas/2019/SC_FOA_0001941.pdf) the The DoE lists:
+In FY 2019 PHASE I RELEASE 2 FUNDING OPPORTUNITY ANNOUNCEMENT (FOA) NUMBER: DE-FOA-0001941 at [[link](http://science.energy.gov/~/media/grants/pdf/foas/2019/SC_FOA_0001941.pdf)] the The DoE lists:
 
 The specific tutorial is:
 
-DOE SBIR/STTR Phase 1 Proposal Prep Tutorial [#17](https://pfefferz.wixsite.com/website/home/hashtags/17) Securing Letters of Support at [[link to pdf](http://www.doesbirlearning.com/wp-content/themes/phase0-LMS/images/public/Module17.pdf)\] [link to page](http://www.doesbirlearning.com/module-17-17/)] is the specific tutorial.
+DOE SBIR/STTR Phase 1 Proposal Prep Tutorial [[#17](https://pfefferz.wixsite.com/website/home/hashtags/17)] Securing Letters of Support at [[link to pdf](http://www.doesbirlearning.com/wp-content/themes/phase0-LMS/images/public/Module17.pdf)\] [[link to page](http://www.doesbirlearning.com/module-17-17/)] is the specific tutorial.
 
 **Great Write up On Doing Bizdev**
 
@@ -37,5 +37,5 @@ The approach to industry would be different and more circumspect. It would be wi
 
 **References**
 
-DoE seal from [link](http://www.energy.gov/management/office-management/operational-management/history/brief-history-department-energy)
+DoE seal from [[link](http://www.energy.gov/management/office-management/operational-management/history/brief-history-department-energy)]
 
