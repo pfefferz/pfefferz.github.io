@@ -2,11 +2,7 @@
 
 This post decodes what the Google Doodle says today, July 1st 2018.
 
-[
-
-![google_doodle](google_doodle.png)
-
-](http://www.google.com/)
+[![google_doodle](google_doodle.png)](http://www.google.com/)
 
 **Decoded**
 
